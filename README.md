@@ -1,3 +1,3 @@
 # fake-repo
  only for tests
-new commit 2
+new commit 3
